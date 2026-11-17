@@ -7,7 +7,7 @@
     "observation.json": "4b9b20286b9c086c",
     "plant.json": "69fd73357d989d8c",
     "recovery_v0.onnx": "14e121fe21846013",
-    "weak.onnx": "e59a0e5fe118e490"
+    "weak.onnx": "c3de5233d3d101b8"
   },
   "max_abs_error_vs_torch": {
     "weak.onnx": 4.76837158203125e-07,
